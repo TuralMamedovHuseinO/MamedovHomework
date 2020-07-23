@@ -1,0 +1,35 @@
+*{
+
+}
+.h1p{
+    font-style: italic;
+}
+.form{
+        width: 400px;
+}
+input.sub{
+    width: 200px;
+    padding: 8px;
+}
+input.check{
+    width: auto;
+}
+input{
+    margin: 5px;
+    width: 260px;
+}
+table{
+    width: 500px;
+    
+}
+textarea{
+    margin-left: 5px;
+}
+select{
+    margin: 5px;
+    width: 268px;
+}
+span{
+    color: red;
+    margin: 0 auto;
+}
